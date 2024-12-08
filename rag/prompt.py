@@ -1,4 +1,7 @@
 BASE_PROMPT = '''
+Note, if the user gives code, and asks to resolve the code,
+give correct code.
+
 Analyze the following query in the context of the 
 provided blockchain network implementation. Provide 
 a clear explanation of how the context relates to the query. 
