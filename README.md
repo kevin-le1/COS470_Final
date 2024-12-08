@@ -34,3 +34,7 @@ Students will create and evaluate a dataset, then use the top entries to fine-tu
 ## Notes
 - Due to time constraints, implementing all ideas may not be feasible. Sketches and predictions for unimplemented ideas are encouraged in the final report.
 - Ensure methods used are free and accessible to all. Paid services are not allowed.
+
+
+## Techniques are heavily inspired from 
+- https://github.com/NirDiamant/RAG_Techniques
