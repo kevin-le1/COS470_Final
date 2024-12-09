@@ -36,5 +36,6 @@ Students will create and evaluate a dataset, then use the top entries to fine-tu
 - Ensure methods used are free and accessible to all. Paid services are not allowed.
 
 
-## Techniques are heavily inspired from 
+## CITATION
 - https://github.com/NirDiamant/RAG_Techniques
+   - Techniques are heavily inspired from this github repository.
