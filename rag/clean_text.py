@@ -1,6 +1,6 @@
 import json
-from explainable_rag import ExplainableRetriever
 
+# File to help you load texts from JSON and JSONL files
 def load_texts_from_files(file_paths):
     texts = []
     for file_path in file_paths:

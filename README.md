@@ -39,3 +39,5 @@ Students will create and evaluate a dataset, then use the top entries to fine-tu
 ## CITATION
 - https://github.com/NirDiamant/RAG_Techniques
    - Techniques are heavily inspired from this github repository.
+- https://platform.openai.com/docs/guides/fine-tuning
+   - Techniques for fine tuning a model with OpenAPI

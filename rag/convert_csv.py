@@ -12,7 +12,7 @@ def convert_csv_to_jsonl(csv_path, jsonl_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Example usage
+# Use case:
 csv_path = "./data/blockchain_dataset.csv"
 jsonl_path = "./data/output.jsonl"
 convert_csv_to_jsonl(csv_path, jsonl_path)
